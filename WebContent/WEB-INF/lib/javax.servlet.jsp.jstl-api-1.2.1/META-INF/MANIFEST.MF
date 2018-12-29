@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: 1.6.0_11 (Sun Microsystems Inc.)
+Built-By: java_re
+Build-Jdk: 1.6.0_11
+Extension-Name: javax.servlet.jsp.jstl
+Implementation-Vendor: Oracle Corporation
+Implementation-Version: 1.2.1
+Specification-Vendor: Oracle Corporation
+Specification-Version: 1.2
+Export-Package: javax.servlet.jsp.jstl.tlv;uses:="javax.xml.parsers,ja
+ vax.servlet.jsp.tagext,org.xml.sax.helpers,org.xml.sax";version="1.2.
+ 1",javax.servlet.jsp.jstl.fmt;uses:="javax.servlet,javax.servlet.jsp.
+ jstl.core,javax.servlet.jsp,javax.servlet.http";version="1.2.1",javax
+ .servlet.jsp.jstl.core;uses:="javax.servlet,javax.el,javax.servlet.js
+ p.tagext,javax.servlet.jsp,javax.servlet.http";version="1.2.1",javax.
+ servlet.jsp.jstl.sql;version="1.2.1"
+Tool: Bnd-0.0.255
+Bundle-Name: JavaServer Pages(TM) Standard Tag Library API
+Bundle-Vendor: GlassFish Community
+Bundle-Version: 1.2.1
+Bnd-LastModified: 1323286944153
+Bundle-ManifestVersion: 2
+Bundle-License: http://glassfish.dev.java.net/nonav/public/CDDL+GPL.html
+Bundle-Description: Java.net - The Source for Java Technology Collabor
+ ation
+Import-Package: javax.el,javax.servlet,javax.servlet.http,javax.servle
+ t.jsp,javax.servlet.jsp.jstl.core;version="1.2.1",javax.servlet.jsp.j
+ stl.fmt;version="1.2.1",javax.servlet.jsp.jstl.sql;version="1.2.1",ja
+ vax.servlet.jsp.jstl.tlv;version="1.2.1",javax.servlet.jsp.tagext,jav
+ ax.xml.parsers,org.xml.sax,org.xml.sax.helpers
+Bundle-SymbolicName: javax.servlet.jsp.jstl-api
+Bundle-DocURL: http://glassfish.org
+
